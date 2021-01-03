@@ -56,3 +56,4 @@ My recommendation is to write this in NodeJs with TypeScript, but any other lang
 
 Atentie! -> jocul are un bug. Daca ambii jucatori selecteaza un defense ability iar atack power si defense power este identica atunci jocul intra in loop si nu se mai termina nicioadata
 (pt ca ambii jucatori ramana la 100 hp).
+IDE utilizat -> IntelliJ IDEA
