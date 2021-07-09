@@ -54,6 +54,6 @@ At the end the message: “Character 1/2 won” will be printed
 My recommendation is to write this in NodeJs with TypeScript, but any other language is ok.
 
 
-Atentie! -> jocul are un bug. Daca ambii jucatori selecteaza un defense ability iar atack power si defense power este identica atunci jocul intra in loop si nu se mai termina nicioadata
-(pt ca ambii jucatori ramana la 100 hp).
-IDE utilizat -> IntelliJ IDEA
+Warning! the game has a bug. If both players select ability number 3 and the atack power and defense power is the same for both charaters the game enters a loop because the hp of both players stays at 100 hp.
+
+
